@@ -1,0 +1,15 @@
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\bin\Debug\net6.0\Project002_HelloUser.exe
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\bin\Debug\net6.0\Project002_HelloUser.deps.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\bin\Debug\net6.0\Project002_HelloUser.runtimeconfig.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\bin\Debug\net6.0\Project002_HelloUser.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\bin\Debug\net6.0\ref\Project002_HelloUser.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\bin\Debug\net6.0\Project002_HelloUser.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.AssemblyInfo.cs
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\obj\Debug\net6.0\ref\Project002_HelloUser.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.genruntimeconfig.cache
