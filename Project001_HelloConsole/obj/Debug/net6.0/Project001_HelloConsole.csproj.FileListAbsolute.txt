@@ -1,0 +1,15 @@
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\bin\Debug\net6.0\Project001_HelloConsole.exe
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\bin\Debug\net6.0\Project001_HelloConsole.deps.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\bin\Debug\net6.0\Project001_HelloConsole.runtimeconfig.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\bin\Debug\net6.0\Project001_HelloConsole.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\bin\Debug\net6.0\ref\Project001_HelloConsole.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\bin\Debug\net6.0\Project001_HelloConsole.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.AssemblyInfo.cs
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\obj\Debug\net6.0\ref\Project001_HelloConsole.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\C#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.genruntimeconfig.cache
